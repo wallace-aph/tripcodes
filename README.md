@@ -27,3 +27,8 @@ A list of tripcodes mined on a VPS with a 200,000 word regex dictionary. All wor
 !F.m.thefts
 
 If you want one of the tripcodes listed in the database, let me know, and I'll give it to you provided nobody else (or myself) took it first. At some point I might upload the master list with all the passwords, but right now it's on a first-come first-serve basis.
+
+11/7/2017 11:40 AM # cat tripcodes.txt |  wc -l
+
+    3755
+
