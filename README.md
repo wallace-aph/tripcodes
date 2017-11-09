@@ -4,7 +4,7 @@ A list of tripcodes mined on a VPS with a 200,000 word regex dictionary. All wor
 
 <b>tripcodes.txt: hashed tripcodes
 
-database.txt: dictionary of regex expressions</b>
+patterns.txt: dictionary of regex expressions</b>
 
 If you want one of the tripcodes listed in the list, let me know, and I'll give it to you provided nobody else (or myself) took it first. At some point I might upload the master list with all the passwords, but right now it's on a first-come first-serve basis.
 
